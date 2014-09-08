@@ -92,7 +92,7 @@ require([
         //Build the where clause
         var myWhere = "";
 
-        //loop through the array of provided erven . below code has been thrown out of the window
+        //loop through the array of provided erven . below commented code has been thrown out of the window and replaced with Build the Where clause
             /*
                     for (index = 0; index < erven.length; index++) {
                         //for the last array ellement   
@@ -111,6 +111,7 @@ require([
              */
 
         /*
+         * Build the Where clause
          * Having one in clause over multiple or clauses
          * Check the erven has search erfs
          */
